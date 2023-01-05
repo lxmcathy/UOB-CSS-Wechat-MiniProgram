@@ -1,0 +1,15 @@
+<!--miniprogram/packageNews/pages/UniNewsMenu/FutureRoads/FutureRoads.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageNews/pages/image/道路1.png"></image>
+</view>
+
+<view class="FutureRoads">
+<view class="weui-article__h1">Making Roads Climate Resilient and Sustainable in Low and Middle Income Countries</view>
+<view class="weui-article__p">The increased frequency and intensity of extreme weather events can have a devastating impact on both human life and physical infrastructure. The impact on road transportation systems can be particularly stark, leading to delay, disruption, damage and potentially failure.</view>
+<view class="weui-article__p">Exposure to flooding events shortens the life expectancy of highways and roads. The stress of water may cause damage, requiring more frequent maintenance, repairs and rebuilding. Road infrastructure in coastal areas is particularly sensitive to more frequent and permanent flooding from sea level rise and storm surges.
+Higher temperatures can cause pavements to soften and expand. This can create rutting and potholes, particularly in high-traffic areas. Heat waves can also limit construction activities, particularly in areas with high humidity.
+Heavy rains may result in flooding, which could disrupt traffic, delay construction activities, and weaken or wash out the soil and culverts that support roads.</view>
+<view class="weui-article__p">A key partner in the CRISPS project, the Universiti Putra Malaysia (UPM) have developed an innovative Fibre Mastic Asphalt (FMA) technology to address the impact of climate change on Malaysia’s roads. Research at UPM on the use of cellulose oil palm fibre showed that the inclusion of palm fibre in asphalt enhanced the quality of flexible road pavement through micro reinforcement. An assessment of in-service roads constructed using FMA has shown an increase in strength, less fatigue cracking, rutting and lower levels of road roughness and consequential lower road use costs, compared to those constructed from conventional asphalt. As a result, the lifespan of the FMA based road pavements are up to 10 years greater than those constructed from conventional materials.</view>
+<view class="weui-article__p">The University of Birmingham led CRISPS project will support the development of innovative approaches that test and validate alternative road surfacing technologies such as Modified Epoxy Chip Seals (MECS) and Modified Epoxy Asphalt Surfaces (MEAS) alongside FMA and deploy this in LMIC settings.</view>
+</view>
+

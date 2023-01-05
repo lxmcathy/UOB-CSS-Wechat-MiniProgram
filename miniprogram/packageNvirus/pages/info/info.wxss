@@ -1,0 +1,65 @@
+/* packageC/pages/info/info.wxss */
+
+page {
+  background-color: #F5F5F5;
+}
+
+/* 顶部logo */
+.logoIMG {
+  width: 100%;
+  height: 260rpx;
+}
+
+.intro_title {
+  text-align: center;
+  margin-bottom: 5px;
+}
+.intro_titleTXT {
+  border-bottom: 1px solid #faf8f8;
+  color: cadetblue;
+}
+.tupian1 {
+  width:95%;
+  text-indent: 2em;
+  font-size: 14px;
+}
+.subtitle {
+  
+  width:95%;
+  text-indent: 2em;
+  font-size: 14px;
+}
+.title {
+  font-size: 24px;
+  width:95%;
+  text-indent: 2em;
+}
+.title2{
+  font-size: 24px;
+  width:95%;
+  text-indent: 2em;
+
+}
+.introTEXT1 {
+  width:95%;
+  text-indent: 2em;
+  font-size: 14px;
+}
+
+
+.introTEXT2 {
+  width:95%;
+  text-indent: 2em;
+  font-size: 14px;
+}
+
+.introTEXT5 {
+  text-indent: 2em;
+  font-size: 14px;
+}
+
+.introTEXT6 {
+  text-indent: 2em;
+  font-size: 14px;
+}
+

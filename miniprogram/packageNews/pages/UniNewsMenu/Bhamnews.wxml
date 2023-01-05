@@ -1,0 +1,48 @@
+<!--packageNews/pages/UniNewsMenu/Bhamnews.wxml-->
+
+<!--标题以及背景图片-->
+
+<view class="logo">
+  <image class="logoIMG" src="/packageNews/pages/image/bham.png" style="width: 752rpx; height: 244rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+<view class="weui-panel__bd" style="width: 750rpx; height: 1266rpx; display: block; box-sizing: border-box">
+  <navigator url="/packageNews/pages/UniNewsMenu/BhamIntro/BhamIntro" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 272rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image style="width: 130rpx; height: 120rpx; display: inline-block; box-sizing: border-box"  class="weui-media-box__thumb" src="/packageNews/pages/image/UOB.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">伯明翰简介</view>
+      <view class="weui-media-box__desc">一分钟了解伯明翰大学</view>
+    </view>
+  </navigator>
+  <navigator url="/packageNews/pages/UniNewsMenu/CommonwealthGames/CommonwealthGames" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 272rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image style="width: 120rpx; height: 128rpx; display: inline-block; box-sizing: border-box; left: 0rpx; top: 0rpx"  mode = "aspectFit" class="weui-media-box__thumb" src="/packageNews/pages/image/运动会01.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">伯明翰2022英联邦运动会</view>
+      <view class="weui-media-box__desc">伯明翰大学与奥运会的全面合作</view>
+    </view>
+  </navigator>
+  <navigator url="/packageNews/pages/UniNewsMenu/COV19Vaccines/COV19Vaccines" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 272rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageNews/pages/image/加强疫苗.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">COVID-19 Booster Vaccines</view>
+      <view class="weui-media-box__desc">New progress in COVID-19 Vaccine research</view>
+    </view>
+  </navigator>
+  
+  <navigator url="/packageNews/pages/UniNewsMenu/FutureRoads/FutureRoads" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 272rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageNews/pages/image/道路.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">Roads of the future</view>
+      <view class="weui-media-box__desc">Making Roads Climate Resilient and Sustainable</view>
+    </view>
+  </navigator>
+  
+  
+</view>

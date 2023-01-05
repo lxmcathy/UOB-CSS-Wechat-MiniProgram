@@ -1,0 +1,35 @@
+<!--pages/main/main.wxml-->
+<template name="tempItem"> 
+<view>
+  <view> Person: {{name}}</view>
+  <view> Contact: {{phone}}></view>
+  <view> Address:{{address}}</view>
+</view>
+</template>
+<template is="tempItem" data="{{...item}}"></template>
+
+<wxs module="m3">
+var v =1;
+module.exports.value= v;
+// xxxx
+/*
+var +=1;
+*/
+console.log(v);
+/*
+var d = 3;
+console.log(d);
+</wxs>
+<view>{{m3.value}}</view>
+
+<view>
+  <view class="btn" bindtap="clickMe">
+    Click Me !
+    </view>
+</view>
+
+
+
+
+
+

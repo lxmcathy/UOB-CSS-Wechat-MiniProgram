@@ -1,0 +1,187 @@
+<!--miniprogram/packageB/pages/lxm_restuarant/lxm_restuarant.wxml-->
+<view class="restaurant">
+
+<view class="title">
+<text>美食-中餐部分
+-火锅\n</text></view>
+
+<view class='subtitle'>
+<text>雄柒\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/xiongqi2.jpg' mode= 'widthFix'></image>
+<text>
+地址：Unit 3B, 44 Essex St, Birmingham B5 4TR
+英国红领巾投票第一的火锅店！！成都口味，吃辣的吃辣的小伙伴推荐哦。\n</text>
+</view>
+
+<view class='subtitle'>
+<text>熬\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/ao.jpg' mode= 'widthFix'></image>
+<text>
+地址：Unit 2, Southside, Hurst St, Birmingham B5 4TH
+熬的一楼是各种面，粉，还有麻辣烫麻辣拌等等哦。二楼是火锅区域，偏重庆风味，九宫格最有名。\n</text>
+</view>
+
+<view class='subtitle'>
+<text>快乐小羊\n</text></view>
+<view class='content'>
+<text>
+快乐小羊
+地址：21 Ladywell Walk, Arcadian B5 4ST
+伦敦很有名的火锅店，不过伯明翰的还在装修未开始营业\n</text>
+</view>
+
+
+<view class="title">
+<text>-粤菜早茶\n</text></view>
+
+<view class='subtitle'>
+<text>桃苑\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/taoyuan.jpg' mode= 'widthFix'></image>
+<text>
+地址：34 Ladywell Walk, Birmingham B5 4RX
+很有名的烧味店，但饭店需要排队哦，建议早点去\n</text>
+</view>
+
+<view class='subtitle'>
+<text>乐意\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/leyi1.jpg' mode= 'widthFix'></image>
+<text>
+地址：6 Ladywell Walk, Birmingham B5 4ST
+很多人认为是伯明翰最好的烧腊店，服务态度也很好，店面比较小，住得近的通玄可以选择打包\n</text>
+</view>
+
+<view class='subtitle'>
+<text>中英\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/zhongying1.jpg' mode= 'widthFix'></image>
+<text>
+地址：Birmingham China Quarter, 16-18 Wrottesley St, Birmingham B5 4RT
+外国人很多的茶餐厅店，十二点以后点心八折哦\n</text>
+</view>
+
+<view class='subtitle'>
+<text>无双\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/wushuang.jpg' mode= 'widthFix'></image>
+<text>
+地址：2 Bath Passage, Birmingham B5 4SZ
+评价非常好的茶餐厅，里面食物种类齐全，海南鸡饭很有名哦\n</text>
+</view>
+
+
+<view class="title">
+<text>-川渝\n</text></view>
+
+<view class='subtitle'>
+<text>奉蜀香园\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/fsxy.jpg' mode= 'widthFix'></image>
+<text>
+地址：55 Station St, Birmingham B5 4DY
+New Street火车站出口就是，有麻辣香锅，烤鱼，自助火锅等等\n</text>
+</view>
+
+<view class='subtitle'>
+<text>锦里\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/jl.jpg' mode= 'widthFix'></image>
+<text>
+地址：Cathay, Unit B201 The Arcadian, Birmingham B5 4TD\n</text>
+</view>
+
+
+<view class="title">
+<text>-地方小吃\n</text></view>
+
+<view class='subtitle'>
+<text>台正烧（台湾）\n</text></view>
+<view class='content'>
+<text>
+地址：115-117 Hurst St, Birmingham B5 6SE
+菜品好看且好吃，很适合打卡哦\n</text>
+</view>
+
+
+<view class="title">
+<text>-综合中餐\n</text></view>
+
+<view class='subtitle'>
+<text>筷乐\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/kuaile.jpg' mode= 'widthFix'></image>
+<text>
+地址：584 Bristol Rd, Birmingham B29 6BE
+说是伯大中国学生的后食堂也不为过，中午在学校最好的选择~\n</text>
+</view>
+
+<view class='subtitle'>
+<text>胡椒大厨\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/hjdc.jpg' mode= 'widthFix'></image>
+<text>
+地址：1B, Hurst St, Birmingham B5 4TD
+早饭也供应的中餐厅，煎饼油条豆浆都有\n</text>
+</view>
+
+<view class="title">
+<text>-奶茶甜品\n</text></view>
+
+<view class='subtitle'>
+<text>T4\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/T4.jpg' mode= 'widthFix'></image>
+<text>
+地址：50A New St, Birmingham B2 4EG
+除了甜度都不踩雷的奶茶店（英国人的甜度懂得都懂）！！位处于市中心，学生证可以打折哦\n</text>
+</view>
+
+<view class='subtitle'>
+<text>快乐柠檬，茶米家\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/klnm.jpg' mode= 'widthFix'></image>
+<text>
+地址：22 Hurst St, Birmingham B5 4BN（多家分店）
+除了奶茶外还有煎饼，各类炸物，卤味和芝士蛋糕，肉松小贝等甜点哦\n</text>
+</view>
+
+<view class="title">
+<text>-当地美食\n</text></view>
+
+<view class='subtitle'>
+<text>Dominos(多家分店)\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/Dominos.jpg' mode= 'widthFix'></image>
+<text>
+聚餐必点~\n</text>
+</view>
+
+<view class='subtitle'>
+<text>Pho\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/Pho.jpg' mode= 'widthFix'></image>
+<text>
+地址：Grand Central, Stephenson Pl, Birmingham B2 4XJ
+在New Street火车站二楼，很好吃的越南料理，适合口味清淡的同学\n</text>
+</view>
+
+<view class='subtitle'>
+<text>Dixy(多家分店)\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/Dixy.jpg' mode= 'widthFix'></image>
+<text>
+几胖就可以吃撑的炸鸡，赶快拥有\n</text>
+</view>
+
+<view class='subtitle'>
+<text>Nando's(多家分店)\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/Nandos.jpg' mode= 'widthFix'></image>
+<text>
+Nando‘s可以说是英国国民餐厅了，没吃过的同学一定要尝一尝\n</text>
+</view>
+
+</view>

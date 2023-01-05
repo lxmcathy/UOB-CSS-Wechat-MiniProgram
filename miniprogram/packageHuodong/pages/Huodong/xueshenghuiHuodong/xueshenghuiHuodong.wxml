@@ -1,0 +1,21 @@
+<!--miniprogram/packageHuodong/pages/xueshenghuiHuodong/xueshenghuiHuodong.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageHuodong/pages/image/events.png"></image>
+</view>
+
+<view class="xueshenghuiHuodong">
+<view class="weui-article__h1">待定</view>
+<view class="weui-article__p">时间</view>
+<view class="weui-article__p">待定</view>
+<view class="weui-article__p">on EARTH</view>
+<view class="weui-article__p">简介</view>
+<view class="weui-article__p">I DO NOT KNOW</view>
+
+
+<view class="weui-article__p">
+详情请见以下链接：
+</view>
+<view class="weui-article__p">
+  https://www.bilibili.com/video/BV1uT4y1P7CX?from=search&seid=5548040167867967780&spm_id_from=333.337.0.0</view>
+</view>
+

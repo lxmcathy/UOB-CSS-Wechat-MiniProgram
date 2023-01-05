@@ -1,0 +1,109 @@
+/**index.wxss**/
+
+/**页面背景颜色**/
+.page_container{
+  background-color: #F5F5F5;
+}
+
+/**滑动栏**/
+.index_swiper{
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  margin-top: 20rpx;
+}
+.swiper-pic{
+  height: 440rpx;
+}
+.swiper-pic image{
+  height: 100%;
+  width: 100%;
+  border-radius: 5%;
+ }
+
+ /**导航栏**/
+ .navBox {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-top: 30rpx;
+  margin-bottom: 10rpx;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  padding-top: 10rpx;
+  padding-left: 5rpx;
+  padding-right: 5rpx;
+  padding-bottom: 10rpx;
+}
+
+.navBTN {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  box-sizing: border-box;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.navImg {
+  width: 40px;
+  height: 40px;
+  padding-bottom: 5px;
+  border-radius: 50%;
+  box-sizing: 5rpx;
+}
+
+/**热点关注**/
+.title2 {
+  display: block;
+  margin-left: 40rpx;
+}
+.vert_line {
+  color: greenyellow;
+}
+.hotspot {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  margin-top: 10rpx;
+  padding-left: 5rpx;
+  padding-right: 5rpx;
+}
+.hotspotlink {
+  height: 190rpx;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border-bottom: solid #F5F5F5 1px;
+}
+.hotspotIMG {
+  width: 175rpx;
+  height: 175rpx;
+  border-radius: 10%;
+  margin-top: 8rpx;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  vertical-align: text-top;
+}
+.hotspot_title {
+  display: block;
+  margin-top: 10rpx;
+}
+.hotspot_detail {
+  font-size: small;
+  color: #AAAAAA;
+}

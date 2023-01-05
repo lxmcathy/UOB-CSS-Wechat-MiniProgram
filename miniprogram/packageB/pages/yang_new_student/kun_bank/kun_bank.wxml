@@ -1,0 +1,27 @@
+<!--miniprogram/packageB/pages/kun_bank/kun_bank.wxml-->
+<!-- <view class="logo">
+  <image class="logoIMG" src="/packageB/pages/image/logo.png"></image>
+</view> -->
+
+
+
+
+<view class = "bank">
+<view class="weui-article__p">
+  <image class="weui-article__img" class="lloyds" src="/packageB/pages/image/lloyds.jpg"  alt="1"/>
+  <image class="weui-article__img" class="hsbc" src="/packageB/pages/image/hsbc.png"  alt="2"/>
+  <image class="weui-article__img" class="barclays" src="/packageB/pages/image/barclays.jpg" alt="3"/>
+</view>
+<view class="weui-article__h1">银行卡办理流程</view>
+<view class="weui-article__p">✪ 在校园广场中心的白色棚子处排队办理Bank Letter. 也可以在网站https://verify.bham.ac.uk里点击进入SECURE LETTERS打印</view>
+<view class="weui-article__p">✪ 寻找校内预约点或者到Lloyds，Barclays等银行柜台处直接完成预约（银行入口处会有答疑柜台）</view>
+<view class="weui-article__p">✪ 拿到预约凭证，按照预约时间前往指定银行（Lloyds银行可以直接在校东门处的分行完成办理）</view>
+<view class="weui-article__p">✪ 完成办理步骤，银行卡通常以信件的格式寄到bank letter上的住址，请细心保管银行卡和PIN码</view>
+</view>
+
+
+<!-- <view class="weui-article__p">
+  <image class="weui-article__img" src="/packageB/pages/image/lloyds.jfif"  alt="1"/>
+  <image class="weui-article__img" src="/packageB/pages/image/hsbc.png"  alt="2"/>
+  <image class="weui-article__img" src="/packageB/pages/image/barclays.jfif" alt="3"/>
+</view> -->

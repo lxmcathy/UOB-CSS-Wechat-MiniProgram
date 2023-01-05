@@ -1,0 +1,14 @@
+<!--miniprogram/packageNews/pages/UniNewsMenu/COV19Vaccines/COV19Vaccines.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageNews/pages/image/病毒.png" style="width: 750rpx; height: 500rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+
+<view class="COVID19">
+<view class="weui-article__h1">University of Birmingham in COVID-19 booster vaccines clinical trial</view>
+<view class="weui-article__p">Six COVID-19 vaccines are safe and boost immunity for people who have had two doses of Pfizer/BioNTech or Oxford/AstraZeneca, show results from a UK-wide trial carried out in collaboration with the University of Birmingham.</view>
+<view class="weui-article__p">The latest results from the world-first study COV-BOOST are published in The Lancet. The trial investigated the safety, side-effects of, and immune response to, seven vaccines when used as a third booster jab. Trial participants received one of these boosters 10-12 weeks after their initial two-dose vaccination with either Oxford/AstraZeneca or Pfizer/BioNTech vaccines. A control group was given a meningitis vaccine to account for reactions not specific to the COVID-19 jabs. The seven vaccines trialled were: Oxford/AstraZeneca, Pfizer/BioNTech, Moderna, Novavax, Valneva, Janssen, CureVac</view>
+<view class="weui-article__p">Professor Saul Faust, trial lead and Director of the NIHR Clinical Research Facility at UHS, said: “Our side effect data shows all seven vaccines are safe to use as a third dose, with acceptable levels of ‘reactogenicity’ – inflammatory side effects like injection site pain, muscle soreness, fatigue. All seven boosted levels of spike protein antibodies significantly after two doses of the Oxford/AstraZeneca vaccine. However, only six also did so after two doses of Pfizer/BioNTech, (Oxford/AstraZeneca, Pfizer/BioNTech, Moderna, Novavax, Janssen and CureVac).</view>
+<view class="weui-article__p">Prof Faust added: “It’s important to note two things about these results. First, they only relate to these vaccines as boosters to the two primary vaccinations, not how well they work as first and second doses. Secondly, the data describe the immune response at 28 days, not vaccine effectiveness. The relationship between that response and long-term protection is still poorly understood. We will be looking at the longer-term immune responses in COV-BOOST, conducting further tests at three months and one year after receiving boosters. We are also looking at whether a longer period between second and third doses improves response to the two of the booster vaccines. Several studies have shown this effect between first and second doses. We’ve done that by giving some of our original control participants the booster at a later point, and we expect those results to be available in the New Year.”</view>
+</view>
+
+

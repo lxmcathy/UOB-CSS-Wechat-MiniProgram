@@ -1,0 +1,68 @@
+//index.js
+//获取应用实例
+Page({
+ 
+  data:{
+    navBTN:[
+      {
+        "name":"学校新闻",
+        "ref":'/pages/image/home.png',
+        "url":'/packageNews/pages/UniNewsMenu/Bhamnews'
+      },
+      {
+        "name":"活动盛宴",
+        "ref":'/pages/image/event1.png',
+        "url":'/packageHuodong/pages/Huodong/Huodong'
+      },
+      {
+        "name":"新生福利",
+        "ref":'/pages/image/event.png',
+        "url":'/packageB/pages/yang_new_student/yang_new_student'
+      },
+      {
+        "name":"购票中心",
+        "ref":'/pages/image/buy.png'
+      },
+      {
+        "name":"我的空间",
+        "ref":'/pages/image/home.png'
+      },
+      {
+        "name":"学生会介绍",
+        "ref":'/pages/image/member.png',
+        "url":'/packageC/pages/info/info'
+      },
+      {
+        "name":"生活周边",
+        "ref":'/pages/image/map.png'
+      },
+      {
+        "name":"联系我们",
+        "ref":'/pages/image/qa.png',
+        "url":'/packageContectUs/pages/info/info'
+
+      },
+    ],
+    hotspotrender:[
+      {
+        "link":'/packageNcovid/pages/info/info',
+        "img":'/packageNcovid/pages/image/title.png',
+        "title":"疫情新资讯",
+        "detail":"新闻详情"
+      },
+      {
+        "link":'/packageNHSc/pages/info/info',
+        "img":'/pages/image/nhs.png',
+        "title":"NHS免费检测包领取",
+        "detail":"领取详情"
+      },
+      {
+        "link":'/packageNvirus/pages/info/info',
+        "img":'/pages/image/flight.png',
+        // "img":'packageNHSc/pages/image/flight.png',
+        "title":"新毒株资讯",
+        "detail":"计划详情"
+      }     
+    ]
+  }
+})

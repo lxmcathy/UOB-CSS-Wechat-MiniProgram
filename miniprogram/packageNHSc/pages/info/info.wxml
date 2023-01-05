@@ -1,0 +1,107 @@
+<!--info.wxml-->
+
+<!--学生会logo-->
+<view class="logo">
+  <image class="logoIMG" src="/packageNHSc/pages/image/kouzhao.jpg" style="width: 750rpx; height: 762rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+
+<!--学生会背景-->
+<view class="intro" style="width: 722rpx; height: 3236rpx; display: block; box-sizing: border-box">
+  <view class="intro_title">
+    <text class="intro_titleTXT">NHS免费检测包领取指南</text>
+  </view>
+
+  <view class="introTEXT1">
+    近日，英国政府官网发出公告：
+  </view>
+  <view class="introTEXT2">
+    “英国境内的每个人都有资格免费进行每周两次的新冠检测。”
+  </view>
+  <view class="introTEXT3">
+    这个最新政策对于想要近期回国或者想定期检测身体状况的朋友都很有用，只要有英国的合法签证，现在就可以申请NHS新冠自测盒在家进行自测。
+  </view>
+  <view class="tupian1">
+  <image class = "tupian1" src="/packageNHSc/pages/image/tupian1.jpeg" style="width: 700rpx; height: 480rpx; display: inline-block; box-sizing: border-box"></image>
+  </view>
+  <view class="intro_title">
+    <text class="intro_titleTXT">在英国如何免费领取新冠自检包？</text>
+  </view>
+  <view class="introTEXT4">
+    目前，在英国所有人都可以免费领取新冠自检包，每次可在一个站点领取最多2包试剂盒(每包7个) 。
+  </view>  
+  <view class="intro_title">
+    <text class="intro_titleTXT">在英国如何免费领取新冠自检包？</text>
+  </view>
+  <view class="intro_title">
+    <text class="intro_titleTXT">领取自检包共有4种途径可以获得：
+
+1.药房门店免费领取自测包
+  </text>
+  </view>
+  <view class="introTEXT5">
+  除了GP外，还包括Boots，superdrug等高街药店。可以在以下链接中输入家庭邮编进行搜索：
+
+  https://maps.test-and-trace.nhs.uk
+  </view>
+  <view class="intro_title">
+    <text class="intro_titleTXT">2. 测试站点(Test Site)</text>
+  </view>
+  <view class="introTEXT5">
+    英国的各大新冠测试站点也可以获取免费新冠自检包。这是各地区的检测地点的搜索链接：
+  </view>
+  <view class="introTEXT5">
+    ►英格兰
+    https://www.gov.uk/find-covid-19-lateral-flow-test-site
+  </view>
+  <view class="introTEXT5">
+    ►苏格兰
+    https://www.gov.scot/publications/coronavirus-covid-19-getting-tested/pages/no-covid-symptoms/
+  </view>
+  <view class="introTEXT5">
+    ►威尔士
+    https://gov.wales/lateral-flow-testing-people-without-symptoms
+  </view>
+  <view class="introTEXT5">
+    ►北爱尔兰
+    https://www.nidirect.gov.uk/articles/coronavirus-covid-19-testing-and-contact-tracing
+  </view>
+  <view class="introTEXT5">
+    测试完成后，会以短信或电子邮件告知检测结果。
+  </view>
+  <view class="introTEXT5">
+    注意：由于是检测站点，可能会有有症状的人进行核酸检测，所以也算是不太建议的选择。
+  </view>
+  <view class="introTEXT5">
+    Tips：点击领取点后，会出现领取点状态，建议选择前往not busy的地点领取，以减少交叉感染的风险。
+  </view>
+  <view class="intro_title">
+    <text class="intro_titleTXT">3.GOV.UK官网在线预订</text>
+  </view>
+  <view class="introTEXT5">
+    通过政府官网预定，快递上门对于留学生来说是最方便也是最快速的方法啦～
+  </view>
+  <view class="introTEXT5">
+    以下链接进行免费预定
+  </view>
+  <view class="introTEXT5">
+    https://www.gov.uk/order-coronavirus-rapid-lateral-flow-tests
+  </view>
+  <view class="introTEXT5">
+    每次可收到1包 (7个) 试剂盒，每天可预订1次，直接送到家里。这也是最推荐使用的领取方式。
+  </view>
+  <view class="introTEXT5">
+    一般预定成功后会发邮件确认，自检包会在1-2天内送达，如果出现延迟请致电NHS进行查询。  
+    </view>
+    <image class = "tupian1" src="/packageNHSc/pages/image/tupian002.png" style="width: 692rpx; height: 392rpx; display: inline-block; box-sizing: border-box"></image>
+  
+  
+
+
+
+  <view class="intro_title">
+    <text class="intro_titleTXT">4.打电话预订</text>
+  </view>
+  <view class="introTEXT5">
+    通过拨打【119】也可以进行免费检测盒的预定，该条电话线路的开放时间为：7am-11pm，通话为免费的哦~
+  </view>
+</view>

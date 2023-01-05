@@ -1,0 +1,73 @@
+<!--packageB/pages/yang_new_student/yang_new_student.wxml-->
+
+<!--标题以及背景图片-->
+<view class='title_wrapper'>
+  <view class="title">新生指南</view>
+  <image class="title_bgi" src="/packageB/pages/image/welcome_week.jpg"></image>
+</view>
+
+<view class="weui-panel__bd">
+  <navigator url="/packageB/pages/yang_new_student/yang_covid/yang_covid" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/iconmonstr-virus-1-72.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">新冠须知</view>
+      <view class="weui-media-box__desc">了解校园内的防疫措施，遵守学校相关规定</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/kun_bank/kun_bank" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/bank.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">银行信息</view>
+      <view class="weui-media-box__desc">银行开户指南</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/kun_brp/kun_brp" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/brp.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">签证和BRP</view>
+      <view class="weui-media-box__desc">到校后如何领取BRP和办理其它手续</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/lxm_accommodation/lxm_accommodation" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/house.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">住宿指南</view>
+      <view class="weui-media-box__desc">学生公寓/合租House/Apartment</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/lxm_restuarant/lxm_restuarant" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/food.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">美食推荐</view>
+      <view class="weui-media-box__desc">舌尖上的伯明翰</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/lxm_study_spaces/lxm_study_spaces" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/study-space-logo-200.gif" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">学习空间</view>
+      <view class="weui-media-box__desc">校园内的赶ddl圣地</view>
+    </view>
+  </navigator>
+  <navigator url="/packageB/pages/yang_new_student/yang_phone/yang_phone" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageB/pages/image/phone.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">手机办卡</view>
+      <view class="weui-media-box__desc">好用的运营商</view>
+    </view>
+  </navigator>
+</view>

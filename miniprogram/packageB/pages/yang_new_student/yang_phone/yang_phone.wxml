@@ -1,0 +1,43 @@
+<!--packageB/pages/yang_phone/yang_phone.wxml-->
+<view class="page">
+<view class="page__hd">
+</view>
+<view class="page__bd">
+<view class="weui-article">
+<view class="weui-article__h1">手机办卡</view>
+<view class="weui-article__section">
+<view class="weui-article__title">运营商简介</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">1. EE</view>
+<view class="weui-article__p">
+EE属于BT集团，是英国最大的电信运营商之一，小编认识的很多同学都在用这个运营商，信号还不错。
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">2. 沃达丰</view>
+<view class="weui-article__p">
+沃达丰比EE一般要实惠一些，但是信号覆盖的范围不如EE，小编建议用苹果手机的同学们尽量不要选择沃达丰，毕竟有信号才是王道。
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">3. giffgaff</view>
+<view class="weui-article__p">
+伯大恰了饭的运营商，住在学校宿舍的同学可能会收到一张学校发的giffgaff SIM卡，小编身边没有同学在用，刚来学校着急的话也是一个很好的选择。
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">4. O2</view>
+<view class="weui-article__p">
+体量仅次于EE的英国第二大运营商。
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">5. 移动和联通</view>
+<view class="weui-article__p">
+同学们如果想在出国之前就先办好手机卡的话，国内的移动和联通也都有英国卡，例如移动和EE合作的CMLink。这类手机号比较容易收到各种诈骗电话，好处是办理方便。
+</view>
+</view>
+</view>
+</view>
+</view>
+</view>

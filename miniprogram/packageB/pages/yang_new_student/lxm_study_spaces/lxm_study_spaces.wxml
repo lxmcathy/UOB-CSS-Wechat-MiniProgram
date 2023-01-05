@@ -1,0 +1,107 @@
+<!--miniprogram/packageB/pages/lxm_study_spaces/lxm_study_spaces.wxml-->
+<view class ='studyspace'>
+<image class='head' src ='/packageB/pages/image/studyspace2.jpg' mode= 'widthFix'></image>
+
+<view class ='title'>
+<text>Study Space in School\n\n</text>
+</view>
+
+<view class='buildingname'>
+<text>1.52 Pritchatts Road\n</text></view>
+<view class='content'>
+<text>-Study spaces: 39
+-Computers: 16\n
+Quiet Room
+-Study spaces: 16
+-Computers 6</text>
+</view>
+
+<view class='buildingname'>
+<text>2.Strathcona Building\n</text></view>
+<view class='content'>
+<text>G12
+-16 study spaces
+-6 computers\n
+G06
+-10 computers\n
+G04
+-18 computers</text>
+</view>
+
+<view class='buildingname'>
+<text>3.Arts Building: Mason Lounge\n</text></view>
+<view class='content'>
+<text>-Study spaces: 43
+-Computers: 33</text>
+</view>
+
+<view class='buildingname'>
+<text>4.Nuffield: G25\n</text></view>
+<view class='content'>
+<text>-Study spaces: 24
+-Computers: 11</text>
+</view>
+
+<view class='buildingname'>
+<text>5.University House: G01\n</text></view>
+<view class='content'>
+<text>-Study spaces: 13
+-Computers: 17</text>
+</view>
+
+<view class='buildingname'>
+<text>6.Aston Webb: Hub Study Lounge\n</text></view>
+<view class='content'>
+<text>-Study spaces: 30
+-Computers: 6</text>
+</view>
+
+<view class='buildingname'>
+<text>7.Engineering Lounge\n</text></view>
+<view class='content'>
+<text>-Study spaces: 12
+-Computers: none</text>
+</view>
+
+<view class='buildingname'>
+<text>8.Murray Learning Centre\n</text></view>
+<view class='content'>
+<text>Lower ground
+-Study spaces: 11
+-Computers: 9\n
+Upper ground
+-Study spaces: 10
+-Computers: 8\n
+When not used for teaching
+-UG08: 24 computers\n
+-LG12: 34 computers\n
+-LG13: 24 computers\n
+-LG15: 25 computers</text>
+</view>
+
+<view class='buildingname'>
+<text>9.University Centre: The Loft\n</text></view>
+<view class='content'>
+<text>-Study spaces: 52
+-Computers: 15</text>
+</view>
+
+<view class='buildingname'>
+<text>10.Old Gym\n</text></view>
+<view class='content'>
+<text>Lower ground
+-Study spaces: 5
+-Computers: none\n
+Upper ground
+-Study spaces: 13
+-Computers: 12</text>
+</view>
+
+<view class='buildingname'>
+<text>11.Harding\n</text></view>
+<view class='content'>
+<text>-Study spaces: 47
+-Computers: 8</text>
+</view>
+
+</view>

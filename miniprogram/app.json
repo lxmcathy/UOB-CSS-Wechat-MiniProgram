@@ -1,0 +1,113 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/image/nhs"
+  ],
+  "subpackages": [
+    {
+      "root": "packageA",
+      "pages": [
+        "pages/slider1/slider1"
+      ]
+    },
+    {
+      "root": "packageB",
+      "pages": [
+        "pages/yang_new_student/yang_new_student",
+        "pages/yang_new_student/kun_bank/kun_bank",
+        "pages/yang_new_student/kun_brp/kun_brp",
+        "pages/yang_new_student/lxm_accommodation/lxm_accommodation",
+        "pages/yang_new_student/lxm_restuarant/lxm_restuarant",
+        "pages/yang_new_student/lxm_study_spaces/lxm_study_spaces",
+        "pages/yang_new_student/yang_covid/yang_covid",
+        "pages/yang_new_student/yang_phone/yang_phone"
+      ]
+    },
+    {
+      "root": "packageC",
+      "pages": [
+        "pages/info/info"
+      ]
+    },
+    {
+    "root": "packageContactUs",
+      "pages": [
+        "pages/info/info"
+      ]
+    },
+    {
+      "root": "packageHuodong",
+      "pages": [
+        "pages/Huodong/Huodong",
+        "pages/Huodong/guanfangHuodong/guanfangHuodong",
+        "pages/Huodong/shehuiHuodong/shehuiHuodong",
+        "pages/Huodong/xueshenghuuiHuodong/xueshenghuiHuodong",
+        "pages/Huodong/xueshengHuodong/xueshengHuodong"
+      ]
+    },
+    {
+      "root": "packageNcovid",
+      "pages": [
+        "pages/info/info"
+      ]
+    },
+    {
+      "root": "packageNews",
+      "pages": [
+        "pages/UniNewsMenu/UniNewsMenu",
+        "pages/UniNewsMenu/BhamIntro/BhamIntro",
+        "pages/UniNewsMenu/CommonwealthGames/CommonwealthGames",
+        "pages/UniNewsMenu/COV19Vaccines/COV19Vaccines",
+        "pages/UniNewsMenu/FutureRoads/FutureRoads"
+      ]
+    },
+    {
+      "root": "packageNHSc",
+      "pages": [
+        "pages/info/info"
+      ]
+    },
+    {
+      "root": "packageNvirus",
+      "pages": [
+        "pages/info/info"
+      ]
+    }
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "伯大中国学生会",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "borderStyle": "black",
+    "backgroundColor": "#f1f1f1",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/pages/image/official_website_icon.png",
+        "selectedIconPath": "/pages/image/selected_official_website_icon.png",
+        "text": "Home"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/pages/image/profile_icon.png",
+        "selectedIconPath": "/pages/image/selected_profile_icon.png",
+        "text": "MySpace"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "/pages/image/map.png",
+        "selectedIconPath": "/pages/image/map.png",
+        "text": "Map"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "useExtendedLib": {
+    "kbone": true,
+    "weui": true
+  }
+}

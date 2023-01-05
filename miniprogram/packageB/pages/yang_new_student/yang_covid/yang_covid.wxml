@@ -1,0 +1,47 @@
+<!--packageB/pages/yang_covid/yang_covid.wxml-->
+<view class="page">
+<view class="page__bd">
+<view class="weui-article">
+<view class="weui-article__h1">新冠须知</view>
+<view class="weui-article__section">
+<view class="weui-article__section">
+<view class="weui-article__h3">1. 校园规则</view>
+<view class="weui-article__p">
+佩戴口罩。小编建议大家购买医用口罩佩戴，学校发的布口罩虽然美观但是很有可能不如医用口罩卫生。
+</view>
+<view class="weui-article__p">
+保持社交距离，留意身边的红色和橙色标识，遵循单向通行要求。不同的建筑会有不同的规定，同学们要留意自己学院的相关通知。
+</view>
+<view class="weui-article__p">
+勤洗手，多消毒。校园内有很多的免洗消毒液供大家使用，小编建议同学们自己再随身携带一些免洗消毒液，如果需要在校园内用餐先消毒一下。
+</view>
+<view class="weui-article__p" selectable="true">
+有症状，马上自我隔离并预约检测。校园内健身房旁即有新冠检测点，复制下方链接至浏览器，即可预定新冠检测：https://intranet.birmingham.ac.uk/student/2020/keeping-covid-safe.aspx
+</view>
+<view class="weui-article__p">
+<image class="weui-article__img" src="/packageB/pages/image/rules.jpg"  />
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">2. 下载APP</view>
+<view class="weui-article__p" selectable="true">
+请各位同学务必通过复制下方链接至浏览器或在手机应用商店中下载NHS COVID-19，并时刻保持手机的蓝牙和WLAN处于开启状态。如果身旁有NHS Venue Check-in的二维码，请务必使用此应用扫码。
+https://www.nhs.uk/apps-library/nhs-covid-19/
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">3. 遵循政府政策</view>
+<view class="weui-article__p">
+在NHS COVID-19应用中，我们能够看到所在地目前的封锁等级。谷歌搜索当前的封锁等级，即可查看相应的限制措施。
+</view>
+</view>
+<view class="weui-article__section">
+<view class="weui-article__h3">4. 写在最后</view>
+<view class="weui-article__p">
+小编身边有人对这些规定并不很在乎，在这里小编想说健康是自己的事情，一定不要放松警惕。希望大家在伯大度过一段健康快乐的时光！
+</view>
+</view>
+</view>
+</view>
+</view>
+</view>

@@ -1,0 +1,40 @@
+<!--pages/main2/main2.wxml-->
+<view class="section">
+  <view>view Component</view>
+  <view class="view-parent-container" hover-class="view-parent-container"
+   hover-start-time="200"
+    hover-stay-time="3000">
+    <view class="view-container"
+        hover-class="hover-container"
+        hover-stop-propagation="true"
+        hover-start-time="300"
+        hover-stay-time="3000">
+    </view>
+  </view>
+  </view>
+ <view>Scroll-view </view>
+ <view class="section">
+  <view class="section_title">Vertical Scroll</view>
+  <scroll-view style="height: 200px;"
+    scroll-y
+    bindscrolltoupper="upper"
+    bindscrolltolower="lower"
+    bindscroll="scroll"
+    scroll-into-view="{{toView}}"
+    scroll-top="{{scrollTop}}"
+    enable-back-to-top="true"
+    scroll-with-animation="true">
+
+    <view id="green" class="scroll-view-item bc-green"></view>
+    <view id="red" class="scroll-view-item bc-red"></view>
+    <view id ="yellow" class="scroll-view-item bc-yellow"></view>
+    <view id ="blue" class="scroll-view-item bc-blue"></view>
+    </scroll-view>
+    <view class="btn-area">
+      <button size="mini" bindtap="tap">click me to scroll view</button>
+      <button size="mini" bindtap="tapMove">click me to scroll</button>
+    </view>
+    </view>
+    
+
+  

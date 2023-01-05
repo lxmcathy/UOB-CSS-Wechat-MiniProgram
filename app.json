@@ -1,0 +1,47 @@
+{
+  "pages":[
+
+  ],
+
+  "subPackages": [
+    {"root": "pages/index/index", "pages": ["index"]},
+    {"root": "pages/logs/logs", "pages": ["logs"]},
+    {"root": "pages/main/main", "pages": ["main"]},
+    {"root": "pages/main2/main2", "pages": ["main2"]}
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  
+    "tabBar": {
+      "color": "a9b7b7",
+      "borderStyle": "black",
+      "backgroundColor": "#fff",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "iconPath":"/pages/image/official_website_icon.png",
+          "selectedIconPath": "/pages/image/official_website_icon.png",
+          "text":"Home"
+        },{
+          "pagePath": "pages/index/index",
+          "iconPath":"/pages/image/profile_icon.png",
+          "selectedIconPath": "/pages/image/selected_profile_icon.png",
+          "text":"MySpace"
+        },{
+          "pagePath":"pages/index/index",
+          "iconPath":"/pages/image/map.png",
+          "selectedIconPath": "/pages/image/map.png",
+          "text":"Map"
+        }
+      ]
+    },
+  
+
+
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

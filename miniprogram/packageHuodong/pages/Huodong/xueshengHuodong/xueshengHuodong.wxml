@@ -1,0 +1,43 @@
+<!--miniprogram/packageHuodong/pages/xueshengHuodong/xueshengHuodong.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageHuodong/pages/image/events.png"></image>
+</view>
+
+<image class = "tea" src="/packageHuodong/pages/image/茶.png" style="width: 750rpx; height: 558rpx; display: inline-block; box-sizing: border-box"></image>
+<view class="Huodong1">
+<view class="weui-article__h1">Tea Society Weekly Gathering</view>
+<view class="weui-article__p">FRIDAY 10 DECEMBER 2021
+1PM - 3PM
+BEORMA BAR, GUILD OF STUDENTS (1ST FLOOR)
+Tickets: Free</view>
+<view class="weui-article__p">What better way to end your week then endless tea, limitless busicuits, comfy sofas and the best companny the university has to offer. Bring your friends along or meet new and interesting people from all walks of life. Drop by a quick 5 minute brew or stay for the full 2 hours.
+1-3 PM in Beorma Bar, Guild of Students (unless stated otherwise by the committea). Five teapots of different tea (a varietea: black, green, white, oolong, fruit, herbal and tisanes) will be at every meeting including Yorkshire Gold and a mystery tea.</view>
+<view class="weui-article__p">More information on TeaSoc can be found here - https://www.guildofstudents.com/organisation/tea/</view>
+</view>
+
+<image class = "tea" src="/packageHuodong/pages/image/圣诞集市.png" style="width: 750rpx; height: 520rpx; display: inline-block; box-sizing: border-box; left: 0rpx; top: 0rpx"></image>
+<view class="Huodong2">
+<view class="weui-article__h1">Christmas Fair</view>
+<view class="weui-article__p">MONDAY 06 DECEMBER 2021
+2PM - 8PM
+GUILD OF STUDENTS
+Tickets: Free</view>
+<view class="weui-article__p">Get your festive spirit on and join us join us at this year’s Christmas Fair at the Guild of Students. Find student groups and local businesses selling fantastic gifts, food and clothing.
+You’ll be sure to find a gift just right for a friend, family member or even yourself!
+Live music, Food, Clothing, Much more!</view>
+</view>
+
+<image class = "tea" src="/packageHuodong/pages/image/圣诞聚会.png" style="width: 750rpx; height: 558rpx; display: inline-block; box-sizing: border-box"></image>
+<view class="Huodong3">
+<view class="weui-article__h1">Circo Christmas Party</view>
+<view class="weui-article__p">SUNDAY 05 DECEMBER 2021
+8PM - 2AM
+CIRCO, SELLY OAK
+Tickets: £6.00 (Non Member)</view>
+<view class="weui-article__p">Join us for our Christmas themed Party in Circo, Selly Oak!
+Each ticket includes a free drink on entry (VK or soft drink) and you will also be entered for our raffle!
+Multiples prizes to be won as well as a prize for best dressed!
+Tickets: £6 for members and non-members so make sure to bring your friends along:) The more the merier!</view>
+
+</view>
+

@@ -1,0 +1,40 @@
+/* pages/main2/main2.wxss */
+.view-parent-container{
+  width: 50rpx;
+  height: 50rpx;
+  background: yellowgreen;
+}
+.hover-parent-container{
+  background: #fff;
+}
+.view-container {
+  width: 20rpx;
+  height: 20rpx;
+  background: chocolate;
+  color: #fff;
+  text-align:center;
+  line-height: 200rpx;
+}
+.hover-container{
+  background: rgba(0,0,0,0.7);
+}
+#green{
+  width:500px;
+  height: 500px;
+  background: yellowgreen;
+}
+#red{
+  width: 500px;
+  height:500rpx;
+  background: red;
+}
+#yellow{
+  width: 500px;
+  height: 500px;
+  background: yellow
+}
+#blue{
+  width: 500px;
+  height: 500px;
+  background: blue;
+}

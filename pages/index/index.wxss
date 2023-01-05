@@ -1,0 +1,77 @@
+/**index.wxss**/
+page{
+  background-color: #F5F5F5;
+}
+.head{
+  text-align: left;
+  background-color: black;
+}
+
+#logo{
+  width:200px;
+  height:60px;
+  display: block;
+}
+.container{
+  width: 750rpx;
+  padding: 0;
+}
+.page-body{
+  width: 100vw;
+}
+.body-pic{
+ height: 350rpx;
+}.body-pic image{
+  height:100%;
+  width: 100%;
+ 
+}
+.text-body{
+  width: 100%;
+}
+.navBox{
+  display: flex;
+  flex-wrap: wrap;
+  height: 500rpx;
+  background:#fff;
+  margin-top:30rpx;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  padding-top: 10rpx;
+  padding-left: 15rpx;
+  padding-right: 5rpx;
+  box-sizing: border-box;
+  font-size: 9pt;
+  border-radius: 5%;
+  
+}
+.navBTN{
+  width:10%;
+  text-align: center;
+  padding-top: center;
+  margin: 30rpx;
+  box-sizing:border-box;
+ 
+  
+ 
+}
+.navIMG {
+  display: block;
+  width:90rpx;
+  height:90rpx;
+  margin: 30rpx;
+  padding:4rpx;
+  border-radius: 50%;
+  box-sizing: 5rpx;
+}
+.navIMG image{
+  text-align: center;
+  width:52rpx;
+  height: 52rpx;
+  margin:20rpx;
+}
+.navName {
+  margin: 40rpx;
+}
+  
+

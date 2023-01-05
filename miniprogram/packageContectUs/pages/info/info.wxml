@@ -1,0 +1,41 @@
+<!--info.wxml-->
+
+<!--学生会logo-->
+<view class="logo">
+  <image class="logoIMG" src="/packageContectUs/pages/image/title2.png" style="width: 748rpx; height: 465rpx; display: inline-block; box-sizing: border-box; position: relative; left: 0rpx; top: 3rpx"></image>
+</view>
+
+<!--学生会背景-->
+<view class="intro">
+  <view class="intro_title">
+    <text class="intro_titleTXT">有关我们</text>
+  </view>
+  <view class="introTEXT1">
+    大家好，我们是开(工)发(具)者(人)团(社)队(团) UOB网络部
+  </view>
+  <view class="introTEXT3">
+    如果遇到问题，请联系我们 (╯‵□′)╯︵┻━┻
+  </view>
+</view>
+
+
+
+<!--联系方式-->
+<view class="contacts">
+  <view class="contacts_title">
+    <text class="contacts_titleTXT">联系方式</text>
+  </view>
+  <view class="wechat">
+    <image class="contactsIMG" src="/packageContectUs/pages/image/微信.png" style="width: 176rpx; height: 143rpx; display: inline-block; box-sizing: border-box; left: 0rpx; top: 0rpx"></image>
+    <text class="contactsTXT" selectable="true" style="position: relative; left: 15rpx; top: 1rpx">微信号：UOB伯大中国学生会</text>
+  </view>
+  <view class="weibo">
+    <image class="contactsIMG" src="/packageContectUs/pages/image/微博.jpg" style="width: 179rpx; height: 162rpx; display: inline-block; box-sizing: border-box"></image>
+    <text class="contactsTXT" selectable="true" style="position: relative; left: 15rpx; top: 1rpx">微博：UOB伯大学生会</text>
+  </view>
+    <image class="contactsIMG" src="/packageContectUs/pages/image/邮箱.jpg" style="width: 179rpx; height: 167rpx; display: inline-block; box-sizing: border-box; left: 0rpx; top: 33rpx"></image>
+    <text class="contactsTXT" selectable="true" style="position: relative; left: 9rpx; top: 1rpx">邮箱：uuob02790@gmail.com</text>
+  <view class="ins">
+  </view>
+  
+</view>

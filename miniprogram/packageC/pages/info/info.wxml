@@ -1,0 +1,42 @@
+<!--info.wxml-->
+
+<!--学生会logo-->
+<view class="logo">
+  <image class="logoIMG" src="/packageC/pages/image/logo.png"></image>
+</view>
+
+<!--学生会背景-->
+<view class="intro">
+  <view class="intro_title">
+    <text class="intro_titleTXT">学生会背景</text>
+  </view>
+  <view class="introTEXT1">
+    大家好，这里是伯大中国学生会的各个部门以及职位的简介。
+  </view>
+  <view class="introTEXT2">
+    伯明翰大学中国社团最早成立于2014年，自成立以来中国学生会创办了不少有趣且有益的活动。
+    随着时光流逝，我们的社团也创办的越来越好，逐渐成熟，并衍生出中国学生会，旨在福利越来越多的来自中国的留学生。
+  </view>
+  <view class="introTEXT3">
+    我们学生会一共设有一位主席，一位副主席以及七个部门，分别是：秘书处、网络部、文娱部、外联部、文化部、体育部、宣传部和财务部。
+  </view>
+</view>
+
+<!--联系方式-->
+<view class="contacts">
+  <view class="contacts_title">
+    <text class="contacts_titleTXT">联系方式</text>
+  </view>
+  <view class="wechat">
+    <image class="contactsIMG" src="/packageC/pages/image/wechat.png"></image>
+    <text class="contactsTXT" selectable="true">官方微信号：UOBChiSoc</text>
+  </view>
+  <view class="weibo">
+    <image class="contactsIMG" src="/packageC/pages/image/weibo.png"></image>
+    <text class="contactsTXT" selectable="true">官方微博：UOB伯大学生会</text>
+  </view>
+    <image class="contactsIMG" src="/packageC/pages/image/ins.png"></image>
+    <text class="contactsTXT" selectable="true">官方INS号：chinese_soc</text>
+  <view class="ins">
+  </view>
+</view>

@@ -1,0 +1,49 @@
+<!--packageHuodong/pages/Huodong/Huodong.wxml-->
+
+<!--标题以及背景图片-->
+<view class='title_wrapper'>
+  
+  <image class="logoIMG" src="/packageHuodong/pages/image/events.png" style="width: 752rpx; height: 418rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+
+<view class="weui-panel__bd">
+  <navigator url="/packageHuodong/pages/Huodong/guanfangHuodong/guanfangHuodong" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 242rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageHuodong/pages/image/校徽.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">学校活动</view>
+      <view class="weui-media-box__desc">学校官方活动，面向全体学生</view>
+    </view>
+  </navigator>
+  <navigator url="/packageHuodong/pages/Huodong/xueshenghuiHuodong/xueshenghuiHuodong" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 242rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 242rpx; position: relative">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageHuodong/pages/image/学生会.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">中国学生会活动</view>
+      <view class="weui-media-box__desc">伯明翰大学中国学生活动</view>
+    </view>
+  </navigator>
+  <navigator url="/packageHuodong/pages/Huodong/xueshengHuodong/xueshengHuodong" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 242rpx; display: flex; box-sizing: border-box; left: 0rpx; top: -242rpx; position: relative">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageHuodong/pages/image/学生会0.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">伯大学生会活动</view>
+      <view class="weui-media-box__desc">伯明翰大学学生会学生活动</view>
+    </view>
+  </navigator>
+  <navigator url="/packageHuodong/pages/Huodong/shehuiHuodong/shehuiHuodong" class="weui-media-box weui-media-box_appmsg" hover-class="weui-cell_active" style="width: 750rpx; height: 242rpx; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx">
+    <view class="weui-media-box__hd weui-media-box__hd_in-appmsg">
+      <image class="weui-media-box__thumb" src="/packageHuodong/pages/image/UCU.png" />
+    </view>
+    <view class="weui-media-box__bd weui-media-box__bd_in-appmsg">
+      <view class="weui-media-box__title">其他活动</view>
+      <view class="weui-media-box__desc">与伯明翰大学有关的社会活动</view>
+    </view>
+  </navigator>
+  
+  
+  
+</view>

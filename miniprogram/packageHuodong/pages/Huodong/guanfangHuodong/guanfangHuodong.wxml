@@ -1,0 +1,23 @@
+<!--miniprogram/packageHuodong/pages/mulu/guanfangHuodong.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageHuodong/pages/image/events.png"></image>
+</view>
+
+<view class="guanfangHuodong">
+<view class="weui-article__h1">BHM 2021 - Here to stay Exhibition - Ines Elsa Dalal</view>
+<view class="weui-article__p">时间</view>
+<view class="weui-article__p">Tuesday 26 October (09:00) - Tuesday 30 November 2021 (17:00)</view>
+<view class="weui-article__p">Birmingham Medical School</view>
+<view class="weui-article__p">简介</view>
+<view class="weui-article__p">Black history month, exhibition, Birmingham medical school, Ines Elsa Dalal, Here to stay, Windrush, NHS</view>
+
+
+<view class="weui-article__p">
+详情请见以下链接：
+</view>
+<view class="weui-article__p">
+  https://www.birmingham.ac.uk/events/black-history-month/2021/bhm-2021-here-to-stay-exhibition-ines-elsa-dalal.aspx
+</view>
+</view>
+
+

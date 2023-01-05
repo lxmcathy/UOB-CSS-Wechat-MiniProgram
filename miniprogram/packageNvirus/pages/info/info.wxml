@@ -1,0 +1,46 @@
+<!--info.wxml-->
+
+
+<!--学生会背景-->
+
+  <view class="intro_title">
+    <text class="intro_titleTXT">新冠病毒变异毒株奥密克戎“真面目”曝光！长啥样？什么症状？</text>
+  </view>
+
+  <view class="introTEXT1" style="position: relative; left: 54rpx; top: -1rpx; width: 660rpx; height: 250rpx; display: block; box-sizing: border-box">
+    严防新冠病毒变异毒株奥密克戎扩散成为全球防疫新目标。26日至27日两天内，已有不少国家针对最早报告新毒株的南非及其周边数国实施跨国航班和旅行禁令，新毒株图片也已经发布。
+  </view>
+
+  <view class="tupian1">
+    <image class="tupian1" src="/packageNvirus/pages/image/nmsl.jpg" style="width: 700rpx; height: 480rpx; display: inline-block; box-sizing: border-box; position: relative; left: -43rpx; top: 22rpx"></image>
+  </view>
+
+  <view class="subtitle">
+    <text class="title">奥密克戎长啥样？</text>
+  </view>
+
+  <view class="introTEXT2" style="position: relative; left: 76rpx; top: 34rpx; width: 596rpx; height: 140rpx; display: block; box-sizing: border-box">
+    当地时间11月27日，意大利罗马儿童医院科研团队发布新冠病毒新型变异毒株奥密克戎的全球首张图片。
+  </view>
+
+  <view class="introTEXT2" style="position: relative; left: 76rpx; top: 34rpx; width: 596rpx; height: 250rpx; display: block; box-sizing: border-box">
+    图片显示，与新冠变异病毒德尔塔毒株相比，奥密克戎毒株拥有更多的刺突蛋白突变。这些变异多样化，且大部分位于与人体细胞相互作用的区域。
+
+研究人员表示，新冠病毒通过变异进一步适应人体，但并不一定意味着变得更加危险。
+  </view>
+
+
+  
+  <view class="tupian1">
+    <image class="tupian1" src="/packageNvirus/pages/image/wsnd.jpg" style="width: 678rpx; height: 462rpx; display: inline-block; box-sizing: border-box; position: relative; left: -22rpx; top: 115rpx"></image>
+  </view>
+  <view class="subtitle2">
+    <text class="title2" style="position: relative; left: 47rpx; top: 132rpx">奥密克戎具体会引发什么症状？</text>
+  </view>
+
+  <view class="introTEXT2" style="position: relative; left: 76rpx; top: 127rpx; width: 596rpx; height: 140rpx; display: block; box-sizing: border-box">
+    那么奥密克戎具体会引发什么症状？南非医学协会也给出了解答。
+
+据俄罗斯卫星通讯社当地时间报道，南非医学协会主席安吉丽克·库切（Angelique Coetzee）于当地时间26日介绍了感染新冠病毒变异毒株奥密克戎的症状，并称该变体目前仅引发“轻度疾病”。
+  </view>
+

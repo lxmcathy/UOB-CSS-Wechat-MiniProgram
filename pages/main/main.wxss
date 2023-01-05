@@ -1,0 +1,9 @@
+/* pages/main/main.wxss */
+view {
+  color: blue;
+  width: 100%;
+  height: 40rpx;
+  text-align: center !important;
+
+
+}

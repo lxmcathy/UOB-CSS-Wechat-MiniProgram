@@ -1,0 +1,31 @@
+  
+<!--miniprogram/packageB/pages/kun_brp/kun_brp.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageB/pages/image/logo.png"></image>
+</view>
+
+
+
+<view class="weui-article__h1">brp领取和警局注册</view>
+
+<view class = "brp">
+<view class="weui-article__h3">brp的领取</view>
+<view class="weui-article__p" >签证办理完成后，会收到一张brp领取所需的详情单，提前在网上预约好，规定时间到指定地点领取即可。预约网址为https://appointments.bham.ac.uk/
+</view>
+
+<view class="weui-article__h3">警局注册</view>
+<view class="weui-article__p" >领取过brp之后须尽快进行警察局注册的预约，网址为https://west-midlands.overseasregistrations.uk/ </view>
+
+<view class="attentions">注意事项</view>
+<view class="weui-article__p">✪brp领取后注意保管，将和护照一起作为入境的必备材料，补办较为麻烦！</view>
+<view class="weui-article__p">✪到英国7天之内完成预约，如若超时，则有拘留和巨额罚款的危险！</view>
+<view class="weui-article__p">✪伯明翰警局是不接受现金的，只能够刷卡，VISA或者master都可以。</view>
+
+
+<view class="police">
+  <image class = "officer" src="/packageB/pages/image/police.jpg"></image>
+</view>
+
+</view>
+
+

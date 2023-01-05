@@ -1,0 +1,39 @@
+<!--info.wxml-->
+
+<!--学生会logo-->
+<view class="logo">
+  <image class="logoIMG" src="/packageNcovid/pages/image/title.png" style="width: 750rpx; height: 446rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+
+<!--学生会背景-->
+
+  <view class="intro_title">
+    <text class="intro_titleTXT">封锁伦敦！封锁英国！新冠病毒新毒株已在英国失控，有人“逃离”有人“血拼”</text>
+  </view>
+
+  <view class="introTEXT1" style="position: relative; left: 87rpx; top: 1rpx; width: 554rpx; height: 249rpx; display: block; box-sizing: border-box">
+    圣诞节临近，英国部分地区新冠病毒传播速度加快，正面临“失控”的局面。英国政府正在调查这一状况是否与一种变异的新冠病毒有关，并将首都伦敦、英格兰东南部和东部部分地区的新冠疫情防控级别从第三级提升至新增加的第四级。此外，法、意、荷、比等多国紧急宣布应对措施。
+  </view>
+  
+  
+  
+  <view class="tupian1">
+    <image class="tupian1" src="/packageNcovid/pages/image/map.png" style="width: 700rpx; height: 480rpx; display: inline-block; box-sizing: border-box; position: relative; left: 22rpx; top: 230rpx"></image>
+  </view>
+  <view class="intro_title">
+    
+  </view>
+  <view class="introTEXT4" style="position: relative; left: 45rpx; top: 216rpx; width: 596rpx; height: 458rpx; display: block; box-sizing: border-box">
+    当地时间19日，在伦敦“封城”前，大量民众除了扎堆“逃离伦敦”过圣诞，还挤满了各大商业街“血拼” ，仅数小时或就花掉12亿英镑。
+  
+  <view class="intro_title">
+    <text class="intro_titleTXT" style="position: relative; left: -24rpx; top: 33rpx">新冠病毒新毒株在英国已失去控制</text>
+  </view>
+  <view class="introTEXT5" style="position: relative; left: 0rpx; top: 75rpx">
+    据新华视点报道，英国政府本月14日公布了出现变异新冠病毒的情况。卫生大臣马修·汉考克当天说，一种变异的新冠病毒可能与英格兰东南部病毒传播加快有关；过去数月里，类似的变异病毒已经在其他国家被发现，英国已将相关情况通报世界卫生组织。
+  </view>
+
+  
+
+  
+</view>

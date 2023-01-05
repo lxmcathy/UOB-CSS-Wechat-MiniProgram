@@ -1,0 +1,245 @@
+<!--miniprogram/packageB/pages/lxm_accommodation/lxm_accommodation.wxml-->
+<view class='accomodation'>
+<image class='head' src ='/packageB/pages/image/acchead.jpg' mode= 'widthFix'></image>
+
+<view class ='title'>
+<text>房型介绍\n\n</text>
+</view>
+
+<view class='subtitle'>
+<text>1.Ensuite\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/ENSUITE.jpg' mode= 'widthFix'></image>
+<text>
+Ensuite就是国内最受大家欢迎自带独卫独浴的房间，和一般房间比多了独立卫浴空间不仅方便很多，也能治愈你的洁癖。除了独立卫浴，厨房、客厅之类还是和大家一起共享的，特别受女生或情侣欢迎。\n</text>
+</view>
+
+<view class='subtitle'>
+<text>2.Studio\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/STUDIO.jpg' mode= 'widthFix'></image>
+<text>
+和Ensuite比起来，Studio房型通常多了一个房间内自带的简易厨房空间，方便同学们做做简单的早餐或沙拉等。空间也通常比Ensuite稍微大一些。喜欢更多活动空间的同学会更钟意Studio。\n</text>
+</view>
+
+<view class='subtitle'>
+<text>3.Twin Room\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/TWIN.jpg' mode= 'widthFix'></image>
+<text>
+Twin Room，也叫Shared Room，可以理解为比Ensuite房间大一些，可以放下两张床的房型，是好基友好闺蜜的首选！两张床的贴心设计，互不打扰对方还能相互有个照应，想要和基友、闺蜜同住的小伙伴，选这个就没错了！\n</text>
+</view>
+
+<view class='subtitle'>
+<text>4.Cluster Flat\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/CLUSTER.jpg' mode= 'widthFix'></image>
+<text>
+Cluster Flat，即豪华版Apartment，通常也叫Entire Apartment，就是一套包含多个房间的套房。每个房间都可以放入一张床、一张桌子和衣柜，有自己独立的休息空间。不过每个房间的室友需要共用厨房和客厅。有的房间可能自带独立卫生间，但通常情况下是需要与室友共享卫生间。如果可以找两三位朋友，一起预订，那么房租平摊下来后，Cluster Flat还是性价比很高，又住得舒畅的房型选择！\n</text>
+</view>
+
+<view class='subtitle'>
+<text>5.一室一厅/两室一厅\n</text></view>
+<view class='content'>
+<image class='introimg' src ='/packageB/pages/image/zizu.jpg' mode= 'widthFix'></image>
+<text>
+一室一厅/两室一厅与学生公寓不一样，需要自己找房东或者中介进行交易。比较适合喜欢生活空间大，或者有停车需要的同学。缺点是需要自己缴纳bill,以及处理council tax等问题。\n</text>
+</view>
+
+<view class ='title'>
+<text>学校宿舍介绍\n\n</text>
+</view>
+
+<view class='subtitle'>
+<text>1.Oakley Court\n</text></view>
+<view class='content'>
+<text>Oakley Court comprises 21 individual purpose-built flats set around an attractive landscaped courtyard and accommodates 213 students.
+
+-Shared Bathroom
+-Self-catered
+-£132 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>2.The Spinney\n</text></view>
+<view class='content'>
+<text>Accommodation for 104 postgraduate students in single study bedrooms is available at this hall of residence.
+
+-Shared Bathroom
+-Self-catered
+-£115 per weekk</text>
+</view>
+
+<view class='subtitle'>
+<text>3.Global Community\n</text></view>
+<view class='content'>
+<text>This unique living environment will provide residents with an opportunity to build friendships with students from around the world.
+
+-Shared Bathroom
+-Self-catered
+-£99 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>4.Ashcroft\n</text></view>
+<view class='content'>
+<text>Ashcroft is set in the heart of leafy Pritchatts Park in landscaped grounds, near to the Metchley sports pitches.
+
+-Shared Bathroom
+-Self-catered
+-£104 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>5.Bournbrook\n</text></view>
+<view class='content'>
+<text>Home to 178 students living in stylish en-suite accommodation, Bournbrook is a modern residential development that opened its doors in 2017.
+
+-En-suite
+-Self-catered
+-£171 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>6.Shackleton(Shared)\n</text></view>
+<view class='content'>
+<text>Housing 350 students at the heart of the Vale Village community, Shackleton offers mainly catered accommodation through the Meal Plan.
+
+-Shared Bathroom
+-Meal Plan
+-£166 - £169 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>7.Shackleton\n</text></view>
+<view class='content'>
+<text>Housing 350 students at the heart of the Vale Village community, Shackleton offers mainly catered accommodation through the Meal Plan.
+
+-En-suite
+-Meal Plan
+-£200 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>8.Chamberlain\n</text></view>
+<view class='content'>
+<text>Chamberlain, one of our newest residences, is home to 702 students and located at the entrance of the Vale overlooking the lake.
+
+-En-suite
+-Self-catered
+-£174 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>9.Aitken\n</text></view>
+<view class='content'>
+<text>Aitken is comprised of 23 flats offering catered Meal Plan accommodation on a 42 week contract for a total of 147 students.
+
+-Shared Bathroom
+-Self-catered
+-£125 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>10.Green Community\n</text></view>
+<view class='content'>
+<text>Based in the 'Centre Court' block of Tennis Court, The Green Community offers a unique living arrangement available to all undergraduates.
+
+-Shared Bathroom
+-Self-catered
+-£124 per week</text>
+</view>
+
+<image class='guodu' src ='/packageB/pages/image/guodu1.jpg' mode= 'widthFix'></image>
+
+<view class='subtitle'>
+<text>11.Tennis Court\n</text></view>
+<view class='content'>
+<text>Tennis Court comprises 137 flats accommodating 694 students in self-catered, shared bathroom accommodation.
+
+-Shared Bathroom
+-Self-catered
+-£124 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>12.Maple Bank\n</text></view>
+<view class='content'>
+<text>Situated at the top of the Vale Village, Maple Bank comprises 87 flats providing accommodation for 435 students.
+
+-Shared Bathroom
+-Self-catered
+-£90 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>13.Mason\n</text></view>
+<view class='content'>
+<text>Mason is located at the south of the Vale Village. It has 804 self-catered en suite rooms in five or six bed flats.
+
+-En-suite
+-Self-catered
+-£167 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>14.Calthorpe Court\n</text></view>
+<view class='content'>
+<text>Calthorpe Court (formerly Liberty Court) is located by Cannon Hill Park and provides a comfortable living option to first year undergraduates.
+
+En-suite
+Self-catered
+£115 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>15.Oak Brook Park\n</text></view>
+<view class='content'>
+<text>Oak Brook Park (formerly Liberty Park) is on the doorstep of the University and provides a comfortable living option to undergraduate students.
+
+-En-suite
+-Self-catered
+-£161 - £166 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>16.Battery Park\n</text></view>
+<view class='content'>
+<text>Located just a short walk away from campus, Battery Park is the perfect choice if you’d like a homely, sociable atmosphere with your own bathroom.
+
+-En-suite
+-Self-catered
+-£164 - £167 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>17.Jarratt Hall\n</text></view>
+<view class='content'>
+<text>Jarratt Hall is at the heart of Selly Oak Village and provides accommodation for a number of our postgraduate students.
+
+-En-suite
+-Self-catered
+-£161 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>18.The Metalworks\n</text></view>
+<view class='content'>
+<text>The Metalworks is a popular accommodation location in Selly Oak, with all 300 of its rooms en-suite and self-catered.
+
+-En-suite
+-Self-catered
+-£167 per week</text>
+</view>
+
+<view class='subtitle'>
+<text>19.Elgar Court\n</text></view>
+<view class='content'>
+<text>Elgar Court is comprised of 236 students living in Meal Plan accommodation, all with their own individual bathrooms.
+
+-En-suite
+-Self-catered
+-£161 per week</text>
+</view>
+
+</view>

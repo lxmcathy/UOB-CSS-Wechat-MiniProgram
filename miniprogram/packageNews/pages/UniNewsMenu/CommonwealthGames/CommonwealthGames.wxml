@@ -1,0 +1,32 @@
+<!--miniprogram/packageNews/pages/UniNewsMenu/CommonwealthGames/CommonwealthGames.wxml-->
+<view class="logo">
+  <image class="logoIMG" src="/packageNews/pages/image/Games.png"></image>
+</view>
+
+<view class="CommonwealthGames">
+<view class="weui-article__h1">2022 年伯明翰英联邦运动会官方合作伙伴</view>
+<view class="weui-article__p">伯明翰大学是 2022 年伯明翰英联邦运动会的官方合作伙伴，签署了奥运会历史上最全面的大学合作协议。</view>
+<view class="weui-article__p">
+  该合作伙伴关系建立在大学在运动科学研究方面的良好记录基础上，于 1946 年提供英国第一个运动科学学位课程。大学已经与英联邦运动会建立了密切的联系，有 6 名学生和 18 名校友参加了黄金海岸版的 2018 年的奥运会。
+</view>
+<view class="weui-article__p">
+  2022 年伯明翰奥运会的机会
+与伯明翰 2022 密切合作将为大学提供多种机会，让他们在为城市和地区成功举办奥运会方面发挥作用，其中包括：
+
+</view>
+<view class="weui-article__p">
+  展示了大学令人印象深刻的教学和研究能力。 本届奥运会预计将拥有 15 亿全球电视观众，并将迎来超过 100 万名观众和来自 72 个国家和地区的参赛者。
+</view>
+<view class="weui-article__p">
+  为教职工和学生提供志愿服务的机会，他们可以获得在重大体育赛事中工作的宝贵经验。
+</view>
+<view class="weui-article__p">
+  伯明翰大学是女王接力棒的官方合作伙伴 - 国际腿，作为仪式接力棒穿越英联邦国家和地区，为奥运会做准备，提供机会在全球推广这座城市和大学。
+</view>
+<view class="weui-article__p">
+详情请见以下链接：
+</view>
+<view class="weui-article__p">
+  https://www.birmingham.ac.uk/news/commonwealth-games/index.aspx
+</view>
+</view>

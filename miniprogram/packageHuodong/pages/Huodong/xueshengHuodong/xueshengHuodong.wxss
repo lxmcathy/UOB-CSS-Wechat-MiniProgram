@@ -1,0 +1,49 @@
+/* miniprogram/packageHuodong/pages/xueshengHuodong/xueshengHuodong.wxss */
+page {
+  background-color: #F5F5F5;
+}
+
+.logoIMG {
+  width: 100%;
+  height: 260rpx;
+  margin-bottom: 20rpx;
+}
+.Huodong1 {
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  padding: 15rpx;
+}
+.Huodong2 {
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  padding: 15rpx;
+}
+.Huodong3 {
+  width: 95%;
+  background-color: #fff;
+  box-sizing: border-box;
+  border-radius: 5%;
+  margin-left: 20rpx;
+  margin-right:20rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  padding: 15rpx;
+}
+.weui-article__h1 {
+  text-align: center;
+  border-bottom: 1px solid cadetblue;
+  color: cadetblue;
+  margin-bottom: 5px;
+}

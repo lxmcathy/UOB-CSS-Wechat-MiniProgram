@@ -1,0 +1,37 @@
+<!--index.wxml-->
+
+<view class="page_container">
+
+<!--滑动栏-->
+<view class="index_swiper">
+ <block>
+    <swiper class="swiper-pic" indicator-dots="true" indicator-color="white" autoplay="ture" interval="4000">
+      <swiper-item> <image src='/pages/image/UoB_1.jpg'></image></swiper-item>
+      <swiper-item> <image src='/pages/image/UoB_2.jpg'></image></swiper-item>
+      <swiper-item> <image src='/pages/image/UoB_3.jpg'></image></swiper-item>
+      <swiper-item> <image src='/pages/image/UoB_4.jpg'></image></swiper-item>
+    </swiper>
+  </block>
+</view>
+
+<!--导航栏-->
+<view class="navBox">
+  <navigator url="{{menu.url}}" class="navBTN" wx:for="{{navBTN}}" wx:key="key" wx:for-item="menu">
+     <image class="navImg" src="{{menu.ref}}"></image>
+     <text class="menu_name">{{menu.name}}</text>
+  </navigator>
+</view>
+
+<!--热点关注-->
+<text class="title2"><text class="vert_line">|</text> 热点关注</text>
+<view class="hotspot">
+  <navigator url="{{hotspot.link}}" class="hotspotlink" wx:for="{{hotspotrender}}" wx:key="key" wx:for-item="hotspot">
+    <image class="hotspotIMG" src="{{hotspot.img}}" style="width: 162rpx; height: 153rpx; display: block; box-sizing: border-box"></image>
+    <view class="hotspot_text">
+      <text class="hotspot_title">{{hotspot.title}}</text>
+      <text class="hotspot_detail">{{hotspot.detail}}</text>
+    </view>
+  </navigator>
+</view>
+
+</view>

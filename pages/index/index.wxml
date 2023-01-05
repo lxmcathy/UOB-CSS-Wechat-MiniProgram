@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="whole">
+<view class="head">
+<image src='/pages/image/logo_long.png' id='logo'></image></view>
+<view class="container">
+  <view class="page-body">
+    <swiper class="body-pic" indicator-dots="true" indicator-color="white" autoplay="ture" interval="4000">
+      <swiper-item> <image mode="heightFix" src='/pages/image/uob_1.jpg'></image></swiper-item>
+      <swiper-item> <image src='/pages/image/uob_2.jpg' mode="heightFix"></image></swiper-item>
+
+      <swiper-item> <image src='/pages/image/uob_3.jpg' mode="heightFix"></image></swiper-item>
+      <swiper-item><image src='/pages/image/uob3.jpg' mode='heightFix'></image></swiper-item>
+
+        </swiper>
+
+      <view class="textbody"></view>
+  </view>
+</view>
+<view class="navBox">
+  <block class='navBTN' wx:for="{{navBTN}}" wx:key="unique">
+    <navigator url='{{item.url}}' hover-class='none'>
+      <view class='navIMG' style='background:{{item.bgc}}'>
+        <image id="img" src='{{item.icon}}' > </image>
+        </view>
+      <view class='navName'> {{item.name}}</view>
+    </navigator>
+  </block>
+</view>
+</view>
